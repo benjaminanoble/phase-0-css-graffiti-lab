@@ -1,0 +1,23 @@
+div.tag-1 {
+    display: none;
+}
+#wall div#tag-2 {
+    display: none;
+}
+
+div#wall #tag-3.slick {
+    display: none;
+}
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    display: none;
+  }
+
+  div#wall #tag-3 element.style{
+    display: none;
+  }
+
+  element.style {
+    display: none;
+  }
+
+  
